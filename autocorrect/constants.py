@@ -21,7 +21,7 @@ alphabets = {
     "pt": "abcdefghijklmnopqrstuvwxyzãáàâçéêíõóôúü",
     "cs": "aábcčdďeéěfgh(ch)iíjklmnňoópqrřsštťuúůvwxyýzž",
     "el": "αβγδεζηθικλμνξοπρςτυφχψωίϊΐόάέύϋΰήώ",
-    "it": "abcdefghijklmnopqrstuvwxyzãáàâçéêíõóôúü",
+    "it": "abcdefghijklmnopqrstuvwxzyãáàâçéêíõóôúü",
 }
 
 urls = {
